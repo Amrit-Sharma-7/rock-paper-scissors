@@ -12,9 +12,9 @@ This is a simple Rock, Paper, Scissors game implemented using HTML, CSS, and Jav
 
 ## Demo
 
-You can play the game by visiting the [demo page]().
+You can play the game by visiting the [demo page](https://amrit-sharma-7.github.io/rock-paper-scissors/stone-paper-scissors.html).
 
-![Game Screenshot]()
+![Game Demo](demo.gif)
 
 ## Features
 
